@@ -77,7 +77,6 @@
 | Lycophron | urn:cite2:hmt:pers.v1:pers109 | ἱστορία |
 | Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορία |
 | Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω |
-| ------ | --- | ------------ |
 
 
 
