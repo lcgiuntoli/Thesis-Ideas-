@@ -1,9 +1,9 @@
 | Source | URN | Parsing Term | Genre | Time | Reference |
 
-| ------ | --- | ------------ |
+| ------ | --- | ------------ | ----- | ---- | --------- | 
 | Stasinus | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE? | 1.11 | 
 
-| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.11| 
+| οἱ νεώτεροι | | ἱστορέω | ??? | ??? | 1.11| 
 
 | Theopompus | urn:cite2:hmt:pers.v1:pers51 | ἱστορία | History | 300s BCE | 1.37 |
 
@@ -11,9 +11,9 @@
 
 | Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορέω | Mythology | 100s BCE | 1.42 | 
 
-| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.67| 
+| οἱ νεώτεροι | | ἱστορέω | ??? | ??? | 1.67| 
 
-| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.120| 
+| οἱ νεώτεροι | | ἱστορέω | ??? | ??? | 1.120| 
 
 | Dictys | urn:cite2:hmt:pers.v1:pers90 | ἱστορία | ??? | ??? | 1.120 |
 
@@ -31,11 +31,11 @@
 
 | Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 2.130 | 
 
-| Philostephanus & Callimachus | urn:cite2:hmt:pers.v1:pers319 & urn:cite2:hmt:pers.v1:pers86 | ἱστορέω |
+| Philostephanus & Callimachus (Aetia) | urn:cite2:hmt:pers.v1:pers319 & urn:cite2:hmt:pers.v1:pers86 | ἱστορέω | History & Elegy | 200s BCE | 2.227 | 
 
-| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω |
+| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω | Grammarian | 200s BCE | 2.237 |
 
-| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω |
+| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω | Grammarian | 200s BCE | 2.320 | 
 
 | Quintus Smyrnaeus | urn:cite2:hmt:pers.v1:pers330 | ἱστορέω |
 
