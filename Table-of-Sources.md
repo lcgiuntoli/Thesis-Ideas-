@@ -71,71 +71,79 @@
 
 | Porphyry| urn:cite2:hmt:pers.v1:pers77 | ἱστορέω | Philosopher | 200s CE | 3.477 |
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω | Mythographer | 400s BCE | 5.1036 
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω | Mythographer | 400s BCE | 5.1036 |
 
-| Demetrius & Hesiod | urn:cite2:hmt:pers.v1:pers669 & urn:cite2:hmt:pers.v1:pers4 | ἱστορία | 
+| Demetrius & Hesiod | Unclear & urn:cite2:hmt:pers.v1:pers4 | ἱστορία | 750 to 650 BCE | 6.15 |
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 6.49 |
 
-| Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | ἱστορία | 
+| Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | ἱστορία | Mythographer | 300s BCE | 6.54 |
 
-| Diaearchus | urn:cite2:hmt:pers.v1:pers1255 | ἱστορία |
+| Dicaearchus | urn:cite2:hmt:pers.v1:pers1255 | ἱστορία | Philosopher | 300s BCE | 6.117 |
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 7.6 | 
 
-| Philostephanus | urn:cite2:hmt:pers.v1:pers319 | ἱστορία | 
+| Anticleides | Unavailable | ἱστορία | Historian | 200s BCE | 7.106 | 
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω |
+| Philostephanus | urn:cite2:hmt:pers.v1:pers319 | ἱστορία | History | 200s BCE | 7.306 | 
 
-| Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | ἱστορία | 
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω | Mythographer | 400s BCE | 7.1007 |
 
-| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία |
+| Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | ἱστορία | Mythographer | 300s BCE | 7.3010 | 
 
-| Homer | urn:cite2:hmt:pers.v1:pers17 | ἱστορία |
+| Apollonius | Unclear | ἱστορία | ??? | ??? | 8.197 |
 
-| Harpocration | urn:cite2:hmt:pers.v1:pers1278 | ἱστορέω | 
+| Homer | urn:cite2:hmt:pers.v1:pers17 | ἱστορία | Epic | ??? | 9.411 |
 
-| Pindar | urn:cite2:hmt:pers.v1:pers5 | ἱστορέω | 
+| Harpocration | urn:cite2:hmt:pers.v1:pers1278 | ἱστορέω | Grammarian | 100s CE | 9.413 | 
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Ascalonites | Unavailable | ἱστορία | ??? | ??? | 10.2508 | 
 
-| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | 
+| Aristotle | urn:cite2:hmt:pers.v1:pers300 | ἱστορέω | Philosopher | 300s BCE | 10.2512 |
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Pindar | urn:cite2:hmt:pers.v1:pers5 | ἱστορέω | Lyric | 400s BCE | 10.4513 |
 
-| Crates | urn:cite2:hmt:pers.v1:pers667 | ἱστορία | 
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 11.249 | 
 
-| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορία |
+| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | Elegy | 200s BCE | 11.252 | 
 
-| Dionysius | urn:cite2:hmt:pers.v1:pers323 | ἱστορέω |
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 11.267 | 
 
-| Hesiod & Bacchylides | urn:cite2:hmt:pers.v1:pers4 & urn:cite2:hmt:pers.v1:pers579 | ἱστορία |
+| Crates | urn:cite2:hmt:pers.v1:pers667 | ἱστορία | Grammarian | 100s BCE | 11.280 | 
 
-| Aristodemus | urn:cite2:hmt:pers.v1:pers1276 | ἱστορία |
+| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορία | Logographer | 400s BCE | 12.A2 | 
 
-| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία |
+| Dionysius | Unclear | ἱστορέω | ??? | ??? | 12.A10 | 
 
-| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία |
+| Lycastus | Unavailable | ἱστορέω | ??? | ??? | 12.A10 | 
 
-| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορία |
+| Hesiod & Bacchylides | urn:cite2:hmt:pers.v1:pers4 & urn:cite2:hmt:pers.v1:pers579 | ἱστορία | Epic & Lyric | 700s and 400s BCE | 12.D8 | 
 
-| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | 
+| Aristodemus | urn:cite2:hmt:pers.v1:pers1276 | ἱστορία | Grammarian | 00s BCE | 13.164r1 |
 
-| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορέω |
+| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholarship | 220-143 BCE | 13.164r6bis | 
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholarship | 220-143 BCE | 13.164r9 | 
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορία | Grammarian | 200s BCE | 13.164r14 |
 
-| Marsyas | urn:cite2:hmt:pers.v1:pers892 | ἱστορία |
+| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | Elegy | 200s BCE | 13.165r8 | 
 
-| Herodotus | urn:cite2:hmt:pers.v1:pers896 | ἱστορία |
+| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορέω | Mythographer | 100s BCE | 13.5 | 
 
-| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορία |
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 13.6 | 
 
-| Euripides | urn:cite2:hmt:pers.v1:pers97 | ἱστορία |
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 14.E19 | 
 
-| Philostephanus | urn:cite2:hmt:pers.v1:pers319 | ἱστορία | 
+| Marsyas | urn:cite2:hmt:pers.v1:pers892 | ἱστορία | Historian | 300s BCE | 14.C18 | 
+
+| Herodotus | urn:cite2:hmt:pers.v1:pers896 | ἱστορία | Historian | 400s BCE | 14.C19 | 
+
+| Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορία | Grammarian | 200s BCE | 14.H17 |
+
+| Euripides | urn:cite2:hmt:pers.v1:pers97 | ἱστορία | Tragedian | 400s BCE | 14.H30 | 
+
+| Philostephanus | urn:cite2:hmt:pers.v1:pers319 | ἱστορία | Historian | 200s BCE | 16.A5 | 
 
 | Lycophron | urn:cite2:hmt:pers.v1:pers109 | ἱστορία |
 
