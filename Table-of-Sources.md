@@ -37,39 +37,41 @@
 
 | Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω | Grammarian | 200s BCE | 2.320 | 
 
-| Quintus Smyrnaeus | urn:cite2:hmt:pers.v1:pers330 | ἱστορέω |
+| Quintus Smyrnaeus | urn:cite2:hmt:pers.v1:pers330 | ἱστορέω | Epic | 300s CE | 2.377 | 
 
-| Hesiod (Catalogue) | urn:cite2:hmt:pers.v1:pers4 | ἱστορέω |
+| Hesiod (Catalogue) | urn:cite2:hmt:pers.v1:pers4 | ἱστορέω | Epic | 750 to 650 BCE | 2.477 | 
 
-| Stesichorus | urn:cite2:hmt:pers.v1:pers228 | ἱστορία |
+| Stesichorus | urn:cite2:hmt:pers.v1:pers228 | ἱστορία | Lyric | 500s BCE | 2.485 | 
 
-| Hellanicus & Apollodorus | urn:cite2:hmt:pers.v1:pers303 & urn:cite2:hmt:pers.v1:pers69 | ἱστορέω |
+| Hellanicus (Βοιωτιακοἷς) & Apollodorus | urn:cite2:hmt:pers.v1:pers303 & urn:cite2:hmt:pers.v1:pers69 | ἱστορέω | Logographer & Mythographer | 400s BCE & 100s BCE | 2.589
 
-| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορέω | 
+| Herodian | urn:cite2:hmt:pers.v1:pers493 | ἱστορία | Grammarian | 100s CE | 2.594 |
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία |
+| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορέω | Elegy | 200s BCE | 2.630 | 
 
-| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | 
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythography | 400s BCE | 2.645 | 
 
-| Homer | urn:cite2:hmt:pers.v1:pers17 | ἱστορέω |
+| Callimachus | urn:cite2:hmt:pers.v1:pers86 | ἱστορία | Elegy | 200s BCE | 2.667 | 
 
-| Hellanicus (Αργονικοῖς) | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω |
+| Homer | urn:cite2:hmt:pers.v1:pers17 | ἱστορέω | Epic | ??? | 2.800 |
 
-| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω |
+| Hellanicus (Αργονικοῖς) | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 3.142 | 
 
-| Hellanicus (Αργονικοῖς) | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω |
+| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 3.233 | 
 
-| Porphyry| urn:cite2:hmt:pers.v1:pers77 | ἱστορέω |
+| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 3.245 | 
 
-| Nicias | urn:cite2:hmt:pers.v1:pers247 | ἱστορία |
+| Porphyry (Homeric Questions) | urn:cite2:hmt:pers.v1:pers77 | ἱστορέω | Philosopher | 200s CE | 3.285 | 
 
-| Polemon | urn:cite2:hmt:pers.v1:pers58 | ἱστορία | 
+| Nicias | urn:cite2:hmt:pers.v1:pers247 | ἱστορία | Homeric Scholar | ??? | 3.375 | 
 
-| Pindar | urn:cite2:hmt:pers.v1:pers5 | ἱστορία | 
+| Polemon | urn:cite2:hmt:pers.v1:pers58 | ἱστορία | Philosopher | 200s BCE | 3.379 | 
 
-| Porphyry| urn:cite2:hmt:pers.v1:pers77 | ἱστορέω |
+| Pindar | urn:cite2:hmt:pers.v1:pers5 | ἱστορία | Lyric | 400s BCE | 3.724 | 
 
-| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω |
+| Porphyry| urn:cite2:hmt:pers.v1:pers77 | ἱστορέω | Philosopher | 200s CE | 3.477 |
+
+| Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω | Mythographer | 400s BCE | 5.1036 
 
 | Demetrius & Hesiod | urn:cite2:hmt:pers.v1:pers669 & urn:cite2:hmt:pers.v1:pers4 | ἱστορία | 
 
