@@ -36,7 +36,7 @@
 | Pindar | urn:cite2:hmt:pers.v1:pers5 | ἱστορία | Lyric | 400s BCE | 3.724 | 
 | Porphyry| urn:cite2:hmt:pers.v1:pers77 | ἱστορέω | Philosopher | 200s CE | 3.477 |
 | Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορέω | Mythographer | 400s BCE | 5.1036 |
-| Demetrius & Hesiod | Unclear & urn:cite2:hmt:pers.v1:pers4 | ἱστορία | 750 to 650 BCE | 6.15 |
+| Demetrius & Hesiod | Unclear & urn:cite2:hmt:pers.v1:pers4 | ἱστορία | ??? & Epic | 750 to 650 BCE | 6.15 |
 | Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 6.49 |
 | Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | ἱστορία | Mythographer | 300s BCE | 6.54 |
 | Dicaearchus | urn:cite2:hmt:pers.v1:pers1255 | ἱστορία | Philosopher | 300s BCE | 6.117 |
