@@ -12,7 +12,7 @@
 | Ptolemy | Unclear | ἱστορέω | Unclear | Unclear | 1.931 |
 | οἱ ἀρχαῖοι | Unavailable | ἱστορέω | Epic | 700s BCE | 1.1034 |
 | Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholarsh | 220-143 BCE | 1.1036 |
-| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορέω | Homeric Scholar | 100s BCE | 1.1041 | 
+| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορέω | Homeric Scholar | 00s BCE | 1.1041 | 
 | Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία | Mythographer | 100s BCE | 2.128 |
 | Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 2.130 | 
 | Philostephanus & Callimachus (Aetia) | urn:cite2:hmt:pers.v1:pers319 & urn:cite2:hmt:pers.v1:pers86 | ἱστορέω | History & Elegy | 200s BCE | 2.227 | 
@@ -85,7 +85,7 @@
 | Acusilaus | urn:cite2:hmt:pers.v1:pers1223 | ἱστορία | Mythographer | 500s BCE | 20.266 | 
 | Cleitophon | Unknown | ἱστορία | ??? | ??? | 20.267 | 
 | Eratosthenes | urn:cite2:hmt:pers.v1:pers533 | ἱστορία | Polymath | 200s BCE | 22.7 | 
-| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορία | Homeric Scholarship | 100s BCE | 22.36 |
+| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορία | Homeric Scholarship | 00s BCE | 22.36 |
 | The poets of the Epic Cycle | Unavailable | ἱστορία | Epic | 600s BCE | 23.2802 | 
 | Eratosthenes | urn:cite2:hmt:pers.v1:pers533 | ἱστορία | Polymath | 200s BCE | 24.A11 | 
 | Lycophron | urn:cite2:hmt:pers.v1:pers109 | ἱστορία | Grammarian | 200s BCE | 24.29 | 
