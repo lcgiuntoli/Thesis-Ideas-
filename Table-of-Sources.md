@@ -11,7 +11,7 @@
 | Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία | Mythographer | 100s BCE | 1.560 |
 | Ptolemy | Unclear | ἱστορέω | Unclear | Unclear | 1.931 |
 | οἱ ἀρχαῖοι | Unavailable | ἱστορέω | Epic | 700s BCE | 1.1034 |
-| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholarsh | 220-143 BCE | 1.1036 |
+| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholar | 220-143 BCE | 1.1036 |
 | Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορέω | Homeric Scholar | 00s BCE | 1.1041 | 
 | Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία | Mythographer | 100s BCE | 2.128 |
 | Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 2.130 | 
