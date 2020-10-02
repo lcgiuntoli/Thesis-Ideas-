@@ -1,6 +1,6 @@
 | Source | URN | Parsing Term | Genre | Time | Reference |
 | ------ | --- | ------------ | ----- | ---- | --------- | 
-| Stasinus | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE? | 1.11 | 
+| Stasinus | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE (?) | 1.11 | 
 | οἱ νεώτεροι | Unavailable | ἱστορέω | ??? | ??? | 1.11| 
 | Theopompus | urn:cite2:hmt:pers.v1:pers51 | ἱστορία | Historian | 300s BCE | 1.37 |
 | Polemon | urn:cite2:hmt:pers.v1:pers58 | ἱστορία | Philosopher | 200s BCE | 1.39 |
@@ -73,7 +73,7 @@
 | Euripides | urn:cite2:hmt:pers.v1:pers97 | ἱστορία | Tragedian | 400s BCE | 14.H30 | 
 | Philostephanus | urn:cite2:hmt:pers.v1:pers319 | ἱστορία | Historian | 200s BCE | 16.A5 | 
 | Lycophron | urn:cite2:hmt:pers.v1:pers109 | ἱστορία | Grammarian | 200s BCE | 16.B7 | 
-| Stasinus (Cypria) | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE? | 16.208v4 | 
+| Stasinus (Cypria) | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE(?) | 16.208v4 | 
 | Thrasybulus & Acestodorus | urn:cite2:hmt:pers.v1:pers1153 & urn:cite2:hmt:pers.v1:pers1154 | ἱστορία | Historian & Historian | ??? & ??? | 16.210v1 |
 | The poets of the Epic Cycle | Unavailable | ἱστορία | Epic | 600s BCE | 18.164 | 
 | Pherecydes | urn:cite2:hmt:pers.v1:pers255 | ἱστορία | Mythographer | 400s BCE | 18.166 | 
