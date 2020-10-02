@@ -1,16 +1,20 @@
-| Source | URN | Parsing Term | 
+| Source | URN | Parsing Term | Genre | Time | Reference |
 | ------ | --- | ------------ |
-| Aristarchus & Aristophanes | urn:cite2:hmt:pers.v1:pers16 & urn:cite2:hmt:pers.v1:pers21 | ἱστορία |
-| Theopompus | urn:cite2:hmt:pers.v1:pers51 | ἱστορία |
-| Polemon | urn:cite2:hmt:pers.v1:pers58 | ἱστορία | 
-| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορέω |
-| Dictys | urn:cite2:hmt:pers.v1:pers90 | ἱστορία |
-| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία |
-| Ptolemy | urn:cite2:hmt:pers.v1:pers98 | ἱστορέω |
-| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία |
-| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορέω |
-| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία |
-| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω |
+| Stasinus | urn:cite2:hmt:pers.v1:pers20 | ἱστορία | Epic | 600s BCE? | 1.11 | 
+| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.11| 
+| Theopompus | urn:cite2:hmt:pers.v1:pers51 | ἱστορία | History | 300s BCE | 1.37 |
+| Polemon | urn:cite2:hmt:pers.v1:pers58 | ἱστορία | Philosophy | 200s BCE | 1.39 |
+| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορέω | Mythology | 100s BCE | 1.42 | 
+| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.67| 
+| οἱ νεώτεροι | | ἱστορέω | Lyric | ??? | 1.120| 
+| Dictys | urn:cite2:hmt:pers.v1:pers90 | ἱστορία | ??? | ??? | 1.120 |
+| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία | Mythology | 100s BCE | 1.560 |
+| Ptolemy | Unclear | ἱστορέω | Unclear | Unclear | 1.931 |
+| οἱ ἀρχαῖοι | | ἱστορέω | Epic | 700s BCE | 1.1034 |
+| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | ἱστορία | Homeric Scholarship | 220-143 BCE | 1.1036 |
+| Didymus | urn:cite2:hmt:pers.v1:pers175 | ἱστορέω | Homeric Scholarship | 100s BCE | 1.1041 | 
+| Apollodorus | urn:cite2:hmt:pers.v1:pers69 | ἱστορία | Mythology | 100s BCE | 2.128 |
+| Hellanicus | urn:cite2:hmt:pers.v1:pers303 | ἱστορέω | Logographer | 400s BCE | 2.130 | 
 | Philostephanus & Callimachus | urn:cite2:hmt:pers.v1:pers319 & urn:cite2:hmt:pers.v1:pers86 | ἱστορέω |
 | Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω |
 | Euphorion | urn:cite2:hmt:pers.v1:pers354 | ἱστορέω |
