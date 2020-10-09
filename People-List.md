@@ -28,7 +28,6 @@
 | Dicaearchus | urn:cite2:hmt:pers.v1:pers1255 | Philosopher | 300s BCE | 
 | Anticleides | Unavailable | Historian | 200s BCE | 
 | Philostephanus | urn:cite2:hmt:pers.v1:pers319 | History | 200s BCE | 
-| Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | Mythographer | 300s BCE | 
 | Apollonius | Unclear | ??? | ??? | 
 | Harpocration | urn:cite2:hmt:pers.v1:pers1278 | Grammarian | 100s CE | 
 | Ascalonites | Unavailable | ??? | ??? | 10.2508 | 
