@@ -37,7 +37,7 @@
 | Crates | urn:cite2:hmt:pers.v1:pers667 | Grammarian | 100s BCE | 
 | Dionysius | Unclear | ??? | ??? | 
 | Lycastus | Unavailable | ??? | ??? | 
-| Hesiod & Bacchylides | urn:cite2:hmt:pers.v1:pers4 & urn:cite2:hmt:pers.v1:pers579 | ἱστορία | Epic & Lyric | 700s and 400s BCE | 
+| Bacchylides | urn:cite2:hmt:pers.v1:pers579 | ἱστορία | Lyric | 400s BCE | 
 | Aristodemus | urn:cite2:hmt:pers.v1:pers1276 | ἱστορία | Grammarian | 00s BCE | 
 | Aristarchus | urn:cite2:hmt:pers.v1:pers16 | Homeric Scholarship | 220-143 BCE | 
 | Marsyas | urn:cite2:hmt:pers.v1:pers892 | Historian | 300s BCE |  
