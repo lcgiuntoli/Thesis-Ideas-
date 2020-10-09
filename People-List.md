@@ -41,7 +41,8 @@
 | Herodotus | urn:cite2:hmt:pers.v1:pers896 | Historian | 400s BCE |  
 | Euripides | urn:cite2:hmt:pers.v1:pers97 | Tragedian | 400s BCE | 
 | Lycophron | urn:cite2:hmt:pers.v1:pers109 | Grammarian | 200s BCE | 
-| Thrasybulus & Acestodorus | urn:cite2:hmt:pers.v1:pers1153 & urn:cite2:hmt:pers.v1:pers1154 | Historian & Historian | ??? & ??? | 
+| Thrasybulus | urn:cite2:hmt:pers.v1:pers1153 | Historian | ??? | 
+| Acestodorus | urn:cite2:hmt:pers.v1:pers1154 | Historian | ??? |
 | The poets of the Epic Cycle | Unavailable | Epic | 600s BCE |  
 | Arrian | Unavailable | Historian | 100s CE | 
 | Demetrius of Scepsis | urn:cite2:hmt:pers.v1:pers669 | Grammarian | 100s BCE |  
