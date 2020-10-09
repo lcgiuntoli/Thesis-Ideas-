@@ -22,7 +22,6 @@
 | Homer | urn:cite2:hmt:pers.v1:pers17 | Epic | ??? | 
 | Porphyry (Homeric Questions) | urn:cite2:hmt:pers.v1:pers77 | ἱστορέω | Philosopher | 200s CE | 
 | Nicias | urn:cite2:hmt:pers.v1:pers247 | Homeric Scholar | ??? | 
-| Polemon | urn:cite2:hmt:pers.v1:pers58 | Philosopher | 200s BCE | 
 | Pindar | urn:cite2:hmt:pers.v1:pers5 | Lyric | 400s BCE | 3.724 | 
 | Demetrius | Unclear | ??? & Epic | ??? | 
 | Asclepiades | urn:cite2:hmt:pers.v1:pers1256 | Mythographer | 300s BCE | 
