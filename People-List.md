@@ -37,7 +37,6 @@
 | Lycastus | Unavailable | ??? | ??? | 
 | Bacchylides | urn:cite2:hmt:pers.v1:pers579 | ἱστορία | Lyric | 400s BCE | 
 | Aristodemus | urn:cite2:hmt:pers.v1:pers1276 | ἱστορία | Grammarian | 00s BCE | 
-| Aristarchus | urn:cite2:hmt:pers.v1:pers16 | Homeric Scholarship | 220-143 BCE | 
 | Marsyas | urn:cite2:hmt:pers.v1:pers892 | Historian | 300s BCE |  
 | Herodotus | urn:cite2:hmt:pers.v1:pers896 | Historian | 400s BCE |  
 | Euripides | urn:cite2:hmt:pers.v1:pers97 | Tragedian | 400s BCE | 
