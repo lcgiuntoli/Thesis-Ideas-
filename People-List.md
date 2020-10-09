@@ -34,7 +34,6 @@
 | Aristotle | urn:cite2:hmt:pers.v1:pers300 | Philosopher | 300s BCE | 
 | Crates | urn:cite2:hmt:pers.v1:pers667 | Grammarian | 100s BCE | 
 | Dionysius | Unclear | ??? | ??? | 
-| Lycastus | Unavailable | ??? | ??? | 
 | Bacchylides | urn:cite2:hmt:pers.v1:pers579 | ἱστορία | Lyric | 400s BCE | 
 | Aristodemus | urn:cite2:hmt:pers.v1:pers1276 | ἱστορία | Grammarian | 00s BCE | 
 | Marsyas | urn:cite2:hmt:pers.v1:pers892 | Historian | 300s BCE |  
