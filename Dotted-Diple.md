@@ -15,4 +15,4 @@ Provides mythologcial context not found in the main text
 
 Idenitifes Zenodtus' opinion on controversial lines 
 
-Only five lines with a dotted diple contain a variant of ἱστορέω/ἱστορία, could this be an example of scribal fatigue? 
+Only five lines with a dotted diple contain a variant of ἱστορέω/ἱστορία and they all appear fairly early in the text, could this be an example of scribal fatigue? 
