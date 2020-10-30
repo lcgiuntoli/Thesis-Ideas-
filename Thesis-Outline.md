@@ -1,4 +1,4 @@
-Focusing mostly on authors:
+***Focusing mostly on authors:***
 
 Who is cited in ἱστορία/ἱστορέω scholia? 
 
@@ -20,7 +20,7 @@ Which chronological period of authors is cited most often in these scholia?
 
 Once we look into these questions, we could return to topic modeling and visualize which authors directly connect with one another, and perhaps separate them into different zones for specific scholia purposes (explaining certain words, elaborating on stories, correcting or giving variants to a story in the text, etc). Using this information, we could determine which author(s) had the most significant impact on ἱστορία/ἱστορέω scholia, as well as what these scholia are most often used for. 
 
-Focusing mostly on characters: 
+***Focusing mostly on characters:***
 
 Which characters tend to appear in ἱστορία/ἱστορέω scholia? 
 
@@ -38,7 +38,7 @@ How much does the information provided for the characters in the scholia contrad
 
 After exploring these questions, we can get a better idea of whether the backstories for characters in the scholia is typically meant to elaborate on what is provided in the text or to provide new stories not strongly linked to the Iliad itself. Topic modeling can let us see how often different categories of characters appear and when/if they interact with each other. We can also see how often these scholia actually contradict the text regarding the backstories of certain characters. 
 
-Focusing on the actual stories: 
+***Focusing on the actual stories:***
 
 How similar are the stories in these scholia to the mythological works of Apollodorus and Hyginus? 
 
