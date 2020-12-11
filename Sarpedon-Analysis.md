@@ -15,10 +15,15 @@ Apollodorus:
 Greek overlap 
 
 ἔραμαι
+
 Ταῦρος
+
 βαστάζω vs. ἐπιβιβάζω
+
 εἰς Κρήτην
+
 γεννάω
+
 Μίνωνα vs Μίνωα
 
 Hyginus 
@@ -26,5 +31,7 @@ Hyginus
 Europa Argiopes et Agenoris filia Sidonia. Hanc Iuppiter in taurum conversus a Sidone Cretam transportavit et ex ea procreavit Minoem Sarpedonem Rhadamanthum.
 
 γενόμενος = conversus 
+
 εἰς Κρήτην = Cretam transportavit
+
 ἐγέννησε Μίνωα Σαρπηδόνα Ῥαδάμανθυν = procreavit Minoem Sarpedonem Rhadamanthum
