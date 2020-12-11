@@ -1,0 +1,30 @@
+The character of Sarpedon is particularly interesting because of the differing sources for his parentage. While all agree that he is the son of Zeus, the Iliad itself states that his mother is Laodamia, the daughter of Bellerophon. However, a scholion to Iliad V of the Venetus A makes a rare contradiction to the text by instead claiming that he is the son of Europa, thereby making him the brother of Minos and Rhadymanthus as well. Apollodorus cites both versions while also mentioning that Zeus allowed Sarpedon to live for three mortal generations, solving possible chronological issues. Hyginus only refers to Sarpedon as the son of Europa (who he calls the daughter of Argiope and Agenor). All three sources mention that Zeus turned into a bull to carry Europa away to Crete; Apollodorus states that Sarpedon helped his uncle Cilix battle the Lycians and became their king after conquering them, thereby explaining how a Cretan prince could be the king of Lycia in the Iliad. 
+
+
+
+
+
+Scholion:
+
+Εὑρώπην τὴν Φοίνικος Ζεὺς θεασάμενος ἔν τινι λειμῶνι μετὰ νυμφῶν ἄνθη ἀναλέγουσαν ἡράσθη καὶ κατελθὼν ἤλλαξεν ἑαυτὸν εἰς ταυρὸν καὶ ἀπο τοῦ στόματος κρόπον ἔπνει οὕτως τὲ τὴν Εὑπωπην ἀπατήσας ἐβάστασε καὶ διαπορθμεύσασ . εἰς Κρήτην ἐμίγη. εἰ θ' οὕτως συνῴκησεν αὐτῇ Ἀστερίωνι τῷ Κρητων βασιλεῖ γενομένη δὲ ἔγκυος ἐκείνη. τρεῖς παῖδας ἐγέννησε  Μίνωνα Σαρπηδόνα καὶ Ῥαδάμανθυν . ἡ ἱστορία παρ' Ἡσιόδῳ καὶ Βακχυλίδη. 
+
+Apollodorus: 
+
+τινὲς δὲ Εὐρώπην οὐκ Ἀγήνορος ἀλλὰ Φοίνικος λέγουσι. ταύτης Ζεὺς ἐρασθείς, ταῦρος χειροήθης γενόμενος, ἐπιβιβασθεῖσαν διὰ τῆς θαλάσσης ἐκόμισεν εἰς Κρήτην. ἡ δέ, ἐκεῖ συνευνασθέντος αὐτῇ Διός, ἐγέννησε Μίνωα Σαρπηδόνα Ῥαδάμανθυν: καθ᾽ Ὅμηρον δὲ Σαρπηδὼν ἐκ Διὸς καὶ Λαοδαμείας τῆς Βελλεροφόντου…..Σαρπηδὼν δὲ συμμαχήσας Κίλικι πρὸς Λυκίους ἔχοντι πόλεμον, ἐπὶ μέρει τῆς χώρας, Λυκίας ἐβασίλευσε. καὶ αὐτῷ δίδωσι Ζεὺς ἐπὶ τρεῖς γενεὰς ζῆν.
+
+Greek overlap 
+
+ἔραμαι
+Ταῦρος
+βαστάζω vs. ἐπιβιβάζω
+εἰς Κρήτην
+γεννάω
+Μίνωνα vs Μίνωα
+
+Hyginus 
+
+Europa Argiopes et Agenoris filia Sidonia. Hanc Iuppiter in taurum conversus a Sidone Cretam transportavit et ex ea procreavit Minoem Sarpedonem Rhadamanthum.
+
+γενόμενος = conversus 
+εἰς Κρήτην = Cretam transportavit
+ἐγέννησε Μίνωα Σαρπηδόνα Ῥαδάμανθυν = procreavit Minoem Sarpedonem Rhadamanthum
