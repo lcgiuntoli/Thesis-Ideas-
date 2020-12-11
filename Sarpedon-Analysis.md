@@ -26,7 +26,7 @@ Greek overlap
 
 Μίνωνα vs Μίνωα
 
-Hyginus 
+*Hyginus* 
 
 Europa Argiopes et Agenoris filia Sidonia. Hanc Iuppiter in taurum conversus a Sidone Cretam transportavit et ex ea procreavit Minoem Sarpedonem Rhadamanthum.
 
