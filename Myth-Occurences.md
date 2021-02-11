@@ -34,7 +34,7 @@ Heracles vs. Neleus and his sons: Scholia, Apollodorus, Hyginus
 
 Helen: Scholia, Apollodorus, Hyginus 
 
-Cadmus: Scholia, Cadmus, Hyginus
+Cadmus: Scholia, Apollodorus, Hyginus
 
 Erechtheus: Scholia, Apollodorus, Hyginus 
 
