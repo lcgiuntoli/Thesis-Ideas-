@@ -52,3 +52,18 @@ Abduction of Helen by Paris: Scholia, Apollodorus, Hyginus
 
 Abduction of Helen by Theseus: Scholia, Apollodorus, Hyginus 
 
+Castor and Polydeuces vs. Idas and Lyceus: Scholia, Apollodorus, Hyginus 
+
+Childhood of Paris: Scholia, Apollodorus, Hyginus 
+
+Death of Tydeus: Scholia, Apollodorus
+
+Achilles at Pedasus: Scholia (Demetrius and Hesiod) 
+
+Dionysos and Lycurgus: Scholia, Apollodorus, Hyginus 
+
+Sisyphus: Scholia, Apollodorus, Hyginus 
+
+Bellerophon: Scholia, Apollodorus, Hyginus 
+
+***Pegasus***: Scholia, Apollodorus, Hyginus (NOT IN TEXT) 
