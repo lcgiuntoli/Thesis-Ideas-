@@ -14,7 +14,7 @@ Metis/Birth of Athena: Scholia, Apollodorus, Hyginus*
 
 Pandrosus and Hermes: Scholia (mentioned briefly in Apollodorus and Hyginus but less details) 
 
-Briseis’ name: Scholia 
+Briseis’ name: Scholia (ἀρχαῖοι) 
 
 Conspiracy against Zeus: Scholia (Didymus) 
 
