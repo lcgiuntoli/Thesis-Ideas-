@@ -67,3 +67,5 @@ Sisyphus: Scholia, Apollodorus, Hyginus
 Bellerophon: Scholia, Apollodorus, Hyginus 
 
 ***Pegasus***: Scholia, Apollodorus, Hyginus (NOT IN TEXT) 
+
+Areithous: Scholia 
