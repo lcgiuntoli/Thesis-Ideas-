@@ -6,12 +6,12 @@
 |Apollo and Crinis|Yes|No|No|1.39|Polemonion cited|
 |Belus and Danaus|Yes|Yes|Yes|1.42|Apollodorus cited|
 |Telephus|Yes|Yes|Yes|1.59|νεώτεροι cited|
-|Iphigenia|Yes|Yes|Yes|1.106|νεώτεροι cited|
+|Iphigenia|Yes|Yes|Yes|1.106|νεώτεροι and Didymus cited|
 |Birth of Athena|Yes|Yes|No|1.194-195|Apollodorus cited|
 |Character: Pandrosus|Yes|Yes|Yes|1.334|Ptolemy cited| 
 |Pandrosus and Hermes|Yes|No|No|1.334|Ptolemy cited| 
 |Alternate names of Briseis|Yes|No|No|1.392|ἀρχαῖοι cited|  
-|Conspiracy against Zeus|Yes|No|No|1.399|Didymus| 
+|Conspiracy against Zeus|Yes|No|No|1.399|Didymus cited| 
 
 Io and Argus: Scholia, Apollodorus, Hyginus 
 
