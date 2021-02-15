@@ -1,7 +1,6 @@
 |Myth|Scholia|Apollodorus|Hyginus|Location|Notes| 
 |----|-------|-----------|-------|--------|-----|
-
-|Zeus unburdens Gaea|X| | | |Stasinus cited| 
+|Zeus unburdens Gaea|X| | |1.11|Stasinus cited| 
 
 Pelops: Scholia, Apollodorus, Hyginus 
 
