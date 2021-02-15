@@ -1,4 +1,5 @@
 |Myth|Scholia|Apollodorus|Hyginus|Location|Notes| 
+|----|-------|-----------|-------|--------|-----|
 
 |Zeus unburdens Gaea|X| | | |Stasinus cited| 
 
