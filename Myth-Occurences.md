@@ -1,24 +1,17 @@
 |Myth|Scholia|Apollodorus|Hyginus|Location|Notes| 
 |----|-------|-----------|-------|--------|-----|
-|Zeus unburdens Gaea|X| | |1.11|Stasinus cited| 
-
-Pelops: Scholia, Apollodorus, Hyginus 
-
-Chryses: Scholia, Apollodorus Hyginus 
-
-Belus and Danaus: Scholia, Apollodorus, Hyginus 
-
-Telephus: Scholia, Apollodorus*, Hyginus 
-
-Iphigenia: Scholia, Apollodorus, Hyginus 
-
-Metis/Birth of Athena: Scholia, Apollodorus, Hyginus* 
-
-Pandrosus and Hermes: Scholia (mentioned briefly in Apollodorus and Hyginus but less details) 
-
-Briseis’ name: Scholia (ἀρχαῖοι) 
-
-Conspiracy against Zeus: Scholia (Didymus) 
+|Zeus unburdens Gaea|Yes|No|No|1.5-6|Stasinus cited| 
+|Pelops|Yes|Yes|Yes|1.37|Theopompus cited| 
+|Epithet: Apollo Smintheus|Yes|No|Yes|1.39|Polemonion cited|
+|Apollo and Crinis|Yes|No|No|1.39|Polemonion cited|
+|Belus and Danaus|Yes|Yes|Yes|1.42|Apollodorus cited|
+|Telephus|Yes|Yes|Yes|1.59|νεώτεροι cited|
+|Iphigenia|Yes|Yes|Yes|1.106|νεώτεροι cited|
+|Birth of Athena|Yes|Yes|No|1.194-195|Apollodorus cited|
+|Character: Pandrosus|Yes|Yes|Yes|1.334|Ptolemy cited| 
+|Pandrosus and Hermes|Yes|No|No|1.334|Ptolemy cited| 
+|Alternate names of Briseis|Yes|No|No|1.392|ἀρχαῖοι cited|  
+|Conspiracy against Zeus|Yes|No|No|1.399|Didymus| 
 
 Io and Argus: Scholia, Apollodorus, Hyginus 
 
