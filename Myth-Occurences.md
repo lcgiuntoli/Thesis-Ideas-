@@ -27,12 +27,12 @@
 |Sons of Triops|Yes|No|Yes|3.75|Hellanicus cited|
 |Aethra|Yes|Yes|Yes|3.144|Hellanicus cited|
 |Tithonus|Yes|Yes|Yes|3.151|Hellanicus cited|
-|Sons of Helen and Menelaus||Yes|No|No|3.175|Porphyry cited|
-|Abduction of Helen by Paris||Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
-|Abduction of Helen by Theseus||Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
-|Castor and Polydeuces vs. Idas and Lyceus||Yes|Yes|Yes|3.243|Pindar cited|
-|Childhood of Paris||Yes|Yes|Yes|3.325|Porphyry cited|
-|Death of Tydeus||Yes|Yes|Νο|5.126|Pherecydes cited|
+|Sons of Helen and Menelaus|Yes|No|No|3.175|Porphyry cited|
+|Abduction of Helen by Paris|Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
+|Abduction of Helen by Theseus|Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
+|Castor and Polydeuces vs. Idas and Lyceus|Yes|Yes|Yes|3.243|Pindar cited|
+|Childhood of Paris|Yes|Yes|Yes|3.325|Porphyry cited|
+|Death of Tydeus|Yes|Yes|Νο|5.126|Pherecydes cited|
 
 
 Death of Tydeus: Scholia, Apollodorus
