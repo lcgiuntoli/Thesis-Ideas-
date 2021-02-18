@@ -51,7 +51,7 @@
 |Νeleus|Yes|Yes|Yes|11.672-11.674|Pherecydes cited|
 |Heracles founding the Olympian Games|Yes|Yes|Yes|11.700|Callimachus cited|
 |Heracles vs Augeas|Yes|Yes|No|11.709|Pherecydes cited|
-|Medea in Athens|Yes|Yes|Yes|11.741|Pindar cited|
+|Medea in Athens|Yes|Yes|Yes|11.741|Crates cited|
 
 
 
