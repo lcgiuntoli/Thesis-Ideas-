@@ -18,36 +18,22 @@
 |Object: Aegis|Yes|Yes|No|2.157|Euphorion cited|
 |Origin of the Aegis|Yes|No|No|2.157|Euphorion cited|
 |Meleager|Yes|Yes|Yes|2.157|Euphorion cited|
+|Penthesilea|Yes|Yes|Yes|2.220|Quintus cited|
+|Heracles vs. Neleus and his sons|Yes|Yes|Yes|2.336|Hesiod cited|
+|Helen|Yes|Yes|Yes|2.339|Stesichorus cited|
+|Cadmus|Yes|Yes|Yes|2.494|Hellanicus and Apollodorus cited|
+|Erechtheus|Yes|Yes|Yes|2.547|Callimachus cited|
+|Augeas and Heracles|Yes|Yes|Yes|2.629|Callimachus cited|
+|Sons of Triops|Yes|No|Yes|3.75|Hellanicus cited|
+|Aethra|Yes|Yes|Yes|3.144|Hellanicus cited|
+|Tithonus|Yes|Yes|Yes|3.151|Hellanicus cited|
+|Sons of Helen and Menelaus||Yes|No|No|3.175|Porphyry cited|
+|Abduction of Helen by Paris||Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
+|Abduction of Helen by Theseus||Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
+|Castor and Polydeuces vs. Idas and Lyceus||Yes|Yes|Yes|3.243|Pindar cited|
+|Childhood of Paris||Yes|Yes|Yes|3.325|Porphyry cited|
+|Death of Tydeus||Yes|Yes|Νο|5.126|Pherecydes cited|
 
-Meleager: Scholia, Apollodorus, Hyginus 
-
-Penthesilea: Scholia, Apollodorus, Hyginus 
-
-Heracles vs. Neleus and his sons: Scholia, Apollodorus, Hyginus 
-
-Helen: Scholia, Apollodorus, Hyginus 
-
-Cadmus: Scholia, Apollodorus, Hyginus
-
-Erechtheus: Scholia, Apollodorus, Hyginus 
-
-Augeas: Scholia, Apollodorus, Hyginus 
-
-Sons of Triops: Scholia, Hyginus 
-
-Aethra: Scholia, Apollodorus, Hyginus   
-
-Tithonus: Scholia, Apollodorus, Hyginus 
-
-Sons of Helen and Menelaus: Scholia (Porphyry) 
-
-Abduction of Helen by Paris: Scholia, Apollodorus, Hyginus 
-
-Abduction of Helen by Theseus: Scholia, Apollodorus, Hyginus 
-
-Castor and Polydeuces vs. Idas and Lyceus: Scholia, Apollodorus, Hyginus 
-
-Childhood of Paris: Scholia, Apollodorus, Hyginus 
 
 Death of Tydeus: Scholia, Apollodorus
 
