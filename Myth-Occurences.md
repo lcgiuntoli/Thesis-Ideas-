@@ -50,9 +50,7 @@
 |Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
 |Νeleus|Yes|Yes|Yes|11.672-11.674|Pherecydes cited|
 |Heracles founding the Olympian Games|Yes|Yes|Yes|11.700|Callimachus cited|
-|Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
-|Heracles vs Augeas|Yes|Yes|No|10.435|Pherecydes cited|
-|Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
+|Heracles vs Augeas|Yes|Yes|No|11.709|Pherecydes cited|
 
 
 
