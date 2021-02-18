@@ -32,19 +32,24 @@
 |Abduction of Helen by Theseus|Yes|Yes|Yes|3.242|Polemonion, the Cyclic poets, and Alcman cited|
 |Castor and Polydeuces vs. Idas and Lyceus|Yes|Yes|Yes|3.243|Pindar cited|
 |Childhood of Paris|Yes|Yes|Yes|3.325|Porphyry cited|
+|Ereuthalion|Yes|No|No|4.319|Aristarchus cited|
 |Death of Tydeus|Yes|Yes|Νο|5.126|Pherecydes cited|
+|Achilles at Pedasus|Yes|No|Νο|6.35|Demetrius and Hesiod cited|
+|Dionysos and Lycurgus|Yes|Yes|Yes|6.130|Eumelus cited|
+|Sisphyus|Yes|Yes|Yes|6.153|Pherecydes cited|
+|Bellerophon|Yes|Yes|Yes|6.155|Asclepiades cited|
+|Pegasus|Yes|Yes|Yes|6.183|No author cited, character not present in Iliad text|
+|Heracles founding Τhebe Hypoplakia|Yes|No|No|6.396|Dicaearchus cited|
+|Areithous|Yes|No|No|7.8|Pherecydes cited|
+|Helenus and Cassandra|Yes|Yes|Yes|7.8|Anticledes cited|
+|Athamas|Yes|Yes|Yes|7.86|Philostephanus cited|
+|Euneus|Yes|Yes|Yes|7.467|Asclepiades cited|
+|Telamon|Yes|Yes|Yes|8.284|Apollonius cited|
+|Phoenix (son of Amyntor)|Yes|Yes|Yes|9.448|Homer cited|
+|Athena and the Heron|Yes|No|No|10.274|Aristotle cited|
+|Rhesus|Yes|Yes|Yes|10.435|Apollonius cited|
 
 
-Death of Tydeus: Scholia, Apollodorus
 
-Achilles at Pedasus: Scholia (Demetrius and Hesiod) 
 
-Dionysos and Lycurgus: Scholia, Apollodorus, Hyginus 
 
-Sisyphus: Scholia, Apollodorus, Hyginus 
-
-Bellerophon: Scholia, Apollodorus, Hyginus 
-
-***Pegasus***: Scholia, Apollodorus, Hyginus (NOT IN TEXT) 
-
-Areithous: Scholia 
