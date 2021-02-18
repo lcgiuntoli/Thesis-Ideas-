@@ -47,7 +47,7 @@
 |Telamon|Yes|Yes|Yes|8.284|Apollonius cited|
 |Phoenix (son of Amyntor)|Yes|Yes|Yes|9.448|Homer cited|
 |Athena and the Heron|Yes|No|No|10.274|Aristotle cited|
-|Rhesus|Yes|Yes|Yes|10.435|Apollonius cited|
+|Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
 
 
 
