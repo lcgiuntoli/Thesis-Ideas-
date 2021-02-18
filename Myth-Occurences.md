@@ -23,7 +23,7 @@
 |Helen|Yes|Yes|Yes|2.339|Stesichorus cited|
 |Cadmus|Yes|Yes|Yes|2.494|Hellanicus and Apollodorus cited|
 |Erechtheus|Yes|Yes|Yes|2.547|Callimachus cited|
-|Augeas and Heracles|Yes|Yes|Yes|2.629|Callimachus cited|
+|Augeas and his son|Yes|Yes|No|2.629|Callimachus cited|
 |Sons of Triops|Yes|No|Yes|3.75|Hellanicus cited|
 |Aethra|Yes|Yes|Yes|3.144|Hellanicus cited|
 |Tithonus|Yes|Yes|Yes|3.151|Hellanicus cited|
@@ -48,6 +48,13 @@
 |Phoenix (son of Amyntor)|Yes|Yes|Yes|9.448|Homer cited|
 |Athena and the Heron|Yes|No|No|10.274|Aristotle cited|
 |Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
+|Νeleus|Yes|Yes|Yes|11.672-11.674|Pherecydes cited|
+|Heracles founding the Olympian Games|Yes|Yes|Yes|11.700|Callimachus cited|
+|Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
+|Heracles vs Augeas|Yes|Yes|No|10.435|Pherecydes cited|
+|Rhesus|Yes|Yes|Yes|10.435|Pindar cited|
+
+
 
 
 
