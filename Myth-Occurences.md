@@ -12,14 +12,12 @@
 |Pandrosus and Hermes|Yes|No|No|1.334|Ptolemy cited| 
 |Alternate names of Briseis|Yes|No|No|1.392|ἀρχαῖοι cited|  
 |Conspiracy against Zeus|Yes|No|No|1.399|Didymus cited| 
-
-Io and Argus: Scholia, Apollodorus, Hyginus 
-
-Chrysippus: Scholia, Hyginus
-
-Daedalus and Icarus: Scholia, Apollodorus, Hyginus 
-
-The Aegis: Scholia, mentioned in Apollodorus but no backstory 
+|Io and Argus|Yes|Yes|Yes|2.103|Apollodorus cited| 
+|Chrysippus|Yes|Yes|Yes|2.105|Hellanicus cited|
+|Daedalus and Icarus|Yes|Yes|Yes|2.145|Philostephanus and Callimachus cited|  
+|Object: Aegis|Yes|Yes|No|2.157|Euphorion cited|
+|Origin of the Aegis|Yes|No|No|2.157|Euphorion cited|
+|Meleager|Yes|Yes|Yes|2.157|Euphorion cited|
 
 Meleager: Scholia, Apollodorus, Hyginus 
 
