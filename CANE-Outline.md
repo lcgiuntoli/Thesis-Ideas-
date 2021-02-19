@@ -1,4 +1,5 @@
 1. ἱστορία, ἱστορέω are technical terms in D.T. *and* in the scholia.
+2. Question:  what is the "mythological world" of the scholia? What needs explaining and why?
 
 
 Discuss process (What-How-Why) 
