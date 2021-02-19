@@ -3,6 +3,8 @@
 3. Process: what figures appear in ἱστ scholia?  What sources are cited?
 4. Sources: overwhelmingly lit. works or works on mythology
     - Chronology: literary works *before* Aristarchus 
+5. Mythological figures? Is it possible to generalize?
+
 
 Discuss process (What-How-Why) 
 
