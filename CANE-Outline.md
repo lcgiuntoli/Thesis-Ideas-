@@ -1,3 +1,6 @@
+1. ἱστορία, ἱστορέω are technical terms in D.T. *and* in the scholia.
+
+
 Discuss process (What-How-Why) 
 
 Go into example (Tydeus' backstory) and examine what it's explaining from the text 
