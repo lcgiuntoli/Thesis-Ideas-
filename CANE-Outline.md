@@ -5,6 +5,7 @@
     - Chronology: literary works *before* Aristarchus 
 5. Mythological figures? Is it possible to generalize? (Characters outside *Iliad*?)
 6. Motivation and logic of scholarly discussion of ἱστορίαι
+7. Mythological world: scholia in relation to Apollodorus and Hyginus
 
 
 Discuss process (What-How-Why) 
