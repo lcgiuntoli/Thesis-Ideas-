@@ -2,6 +2,7 @@
 2. Question:  what is the "mythological world" of the scholia? What needs explaining and why?
 3. Process: what figures appear in ἱστ scholia?  What sources are cited?
 4. Sources: overwhelmingly lit. works or works on mythology
+    - Chronology: literary works *before* Aristarchus 
 
 Discuss process (What-How-Why) 
 
