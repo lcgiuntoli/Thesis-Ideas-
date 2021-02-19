@@ -1,6 +1,6 @@
 1. ἱστορία, ἱστορέω are technical terms in D.T. *and* in the scholia.
 2. Question:  what is the "mythological world" of the scholia? What needs explaining and why?
-
+3. Process: what figures appear in ἱστ scholia?  What sources are cited?
 
 Discuss process (What-How-Why) 
 
