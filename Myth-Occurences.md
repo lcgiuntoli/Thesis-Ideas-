@@ -56,6 +56,10 @@
 |Europa|Yes|Yes|Yes|12.307|Hesiod and Bacchylides cited|
 |Death of Locrian Ajax|Yes|Yes|Yes|13.66|Callimachus cited|
 |Ephyra/Corinth|Yes|Yes|Yes|13.301|Apollodorus cited|
+|Amphion and Zethus|Yes|Yes|Yes|13.302|Pherecydes cited|
+|Tydeus and Deipyle|Yes|Yes|Yes|14.120|Pherecydes cited|
+|Pierus and Amathus|Yes|Yes|Yes|14.226|Marsyas cited|
+|Heracles vs. Eurypylus|Yes|Yes|No|14.226|Pherecydes cited|
 
 
 
