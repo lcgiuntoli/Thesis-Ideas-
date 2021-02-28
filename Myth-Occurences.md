@@ -52,6 +52,10 @@
 |Heracles founding the Olympian Games|Yes|Yes|Yes|11.700|Callimachus cited|
 |Heracles vs Augeas|Yes|Yes|No|11.709|Pherecydes cited|
 |Medea in Athens|Yes|Yes|Yes|11.741|Crates cited|
+|Patroclus' childhood|Yes|Yes|No|12.1|Hellanicus cited|
+|Europa|Yes|Yes|Yes|12.307|Hesiod and Bacchylides cited|
+|Death of Locrian Ajax|Yes|Yes|Yes|13.66|Callimachus cited|
+|Ephyra/Corinth|Yes|Yes|Yes|13.301|Apollodorus cited|
 
 
 
