@@ -60,6 +60,12 @@
 |Tydeus and Deipyle|Yes|Yes|Yes|14.120|Pherecydes cited|
 |Pierus and Amathus|Yes|Yes|Yes|14.226|Marsyas cited|
 |Heracles vs. Eurypylus|Yes|Yes|No|14.226|Pherecydes cited|
+|Hera mothering Prometheus|Yes|No|No|14.295|Euphorion cited|
+|Semele|Yes|Yes|Yes|14.323|Euripides cited|
+|Flights of Peleus and Telamon|Yes|Yes|No|16.14|Philostephanus cited|
+|Childhood of Achilles|Yes|Yes|No|16.37|Lycophron cited|
+|Achilles' spear|Yes|Yes|Yes|16.140|Stasinus cited|
+
 
 
 
