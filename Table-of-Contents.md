@@ -7,4 +7,4 @@
 7. Pegasus: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Pegasus.md
 8. The Plan of Zeus: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Zeus-Plan-Thoughts.md
 9. Thoughts on ἱστορία: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Istoria-Thoughts.md
-10. Why do we have ἱστορία? 
+10. Why do we have ἱστορία: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1.md
