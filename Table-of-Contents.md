@@ -8,3 +8,4 @@
 8. The Plan of Zeus: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Zeus-Plan-Thoughts.md
 9. Thoughts on ἱστορία: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Istoria-Thoughts.md
 10. Why do we have ἱστορία: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/transcription.md
+11. Scholia vs text: https://github.com/lcgiuntoli/Thesis-Ideas-/blob/master/Scholia-vs-Iliad.md
