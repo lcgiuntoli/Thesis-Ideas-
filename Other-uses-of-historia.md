@@ -1,6 +1,3 @@
-# Other uses of historia
-
-## Subsection
 
 Although it is tempting to summarize the ἱστορία scholia as simply notes which tell mythological stories at length, once we take a closer look at their corpus significant exceptions become apparent. Along with expanding on a myth alluded to in the Iliad text, the ἱστορία scholia can refer to an authoritative source to defend material in the text as legitimately Homeric. For example, in a scholion commenting on 10.274, we see a potential debate on why Athena sends an ερωδιὸς to Diomedes and Odysseus during their night raid. The scholiast begins with the adverb εἰκότως to emhasize that this action is suitable for the story and gives a description of the lifestyle of an ερωδιὸς to show how its habits of hunting in marshy territory are similar to the heroes’ actions. The source cited for this note is none other than Aristotle’s Περὶ Ζωΐων, which certainly is not a conventional mythological source and demonstrates how these scholia are not limited to mythological sources when it comes to defending Homeric material. Rather than retelling a myth, this scholion has relied on a work of animal biology to explain potentially confusing content. 
 
